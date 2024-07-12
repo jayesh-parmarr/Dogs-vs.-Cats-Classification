@@ -31,7 +31,7 @@ Several SVM models were trained with different kernels and configurations:
      ```
    - **Confusion Matrix**:
      
-     ![image](linear.png)
+     ![image](image/linear.png)
 
      
 
@@ -52,7 +52,7 @@ Several SVM models were trained with different kernels and configurations:
      ```
    - **Confusion Matrix**:
 
-     ![image](rbf.png)
+     ![image](image/rbf.png)
 
 3. **SVM with GridSearchCV**
    - **Dataset**: 2000 images
@@ -72,7 +72,7 @@ Several SVM models were trained with different kernels and configurations:
      ```
    - **Confusion Matrix**:
 
-     ![image](rbf_grid.png)
+     ![image](image/rbf_grid.png)
 
 4. **SVM with Polynomial Kernel (degree=2)**
    - **Dataset**: 2000 images
@@ -91,7 +91,7 @@ Several SVM models were trained with different kernels and configurations:
      ```
    - **Confusion Matrix**:
 
-    ![image](d2.png)
+    ![image](image/d2.png)
 
 5. **SVM with Polynomial Kernel (degree=3)**
    - **Dataset**: 2000 images
@@ -110,7 +110,7 @@ Several SVM models were trained with different kernels and configurations:
      ```
    - **Confusion Matrix**:
 
-    ![image](d3.png)
+    ![image](image/d3.png)
    
 
 ## Installation
