@@ -57,7 +57,7 @@ Several SVM models were trained with different kernels and configurations:
 3. **SVM with GridSearchCV**
    - **Dataset**: 2000 images
    - **Best Parameters**: {'C': 1, 'gamma': 0.001, 'kernel': 'rbf'} (example, replace with actual)
-   - **Accuracy**: XX% (replace with actual)
+   - **Accuracy**: 0.53% 
    - **Classification Report**:
      ```
                          precision    recall  f1-score   support
@@ -76,7 +76,7 @@ Several SVM models were trained with different kernels and configurations:
 
 4. **SVM with Polynomial Kernel (degree=2)**
    - **Dataset**: 2000 images
-   - **Accuracy**: XX% (replace with actual)
+   - **Accuracy**: 0.63% 
    - **Classification Report**:
      ```
                          precision    recall  f1-score   support
@@ -95,7 +95,7 @@ Several SVM models were trained with different kernels and configurations:
 
 5. **SVM with Polynomial Kernel (degree=3)**
    - **Dataset**: 2000 images
-   - **Accuracy**: XX% (replace with actual)
+   - **Accuracy**: 0.53%
    - **Classification Report**:
      ```
                          precision    recall  f1-score   support
